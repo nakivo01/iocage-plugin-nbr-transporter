@@ -5,8 +5,8 @@ PRODUCT='NAKIVO Backup & Replication'
 #URL="http://10.10.18.187:8080/NBR/linux/10.8.0/NAKIVO_Transporter_Installer_10.8.0.73174.sh"
 #SHA256="fdf1cb4601bc117078460bde07231da932ff37b3aa668e812d16d832d6810bed"
 
-URL="http://10.10.18.187:8080/NBR/transporter/NAKIVO_Transporter_Installer-10.9.0.r73817-x86_64.sh"
-SHA256="3f3ba6cd07900a1af98efc7d2f633264cac3f4fde4d3a220427f330eb4d4d6b7"
+URL="http://10.10.18.187:8080/NBR/transporter/NAKIVO_Transporter_Installer-10.9.0.r75426-x86_64.sh"
+SHA256="14033b6319eaa6b71de7b96342281e9e081de940c115e2bd1d9af51e71ca08c8"
 
 
 PRODUCT_ROOT="/usr/local/nakivo"
